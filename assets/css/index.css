@@ -1,0 +1,66 @@
+ul {
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    display: block;
+}
+li{
+    float: left;
+}
+li a{
+ padding: 25px;
+      display: block;
+      text-decoration: none;
+      color: #1c1c1c;
+}
+h2{background-color: #ffffff;
+      text-align: center;
+      color: black;
+      font-size: 50px;
+      font-family: "Tlwg Typist";
+    }
+    li a:hover{
+      background-color: wheat;
+    }
+.carone{
+    text-align: center;
+font-size: larger;
+
+
+}
+
+.center-container {
+    text-align: center;
+}
+
+.styled-link-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1c1c1c;
+    color: #fff;
+    text-decoration: none; /* Remove underlines from the link */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.styled-link-button:hover {
+    background-color: #d59918;
+}
+.cartwo{
+     text-align: center;
+font-size: larger;
+}
+.carthree{
+        text-align: center;
+font-size: larger;
+
+}
